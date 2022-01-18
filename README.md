@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Andrei Panferov, you can contact me using *telegram* [@BlackSamorez](https://t.me/BlackSamorez).
+
+Here're my noteworthy projects:
+* An almost pure c++ [raytracer](https://github.com/BlackSamorez/raytracer21) programm.
+* Collaborative [project](https://github.com/BlackSamorez/mipt_lab) of collecting **MIPT** LaTeX lab reports.
+
 <!--
 **BlackSamorez/BlackSamorez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
