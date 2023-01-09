@@ -3,6 +3,7 @@
 My name is Andrei Panferov, you can contact me using *telegram* [@BlackSamorez](https://t.me/BlackSamorez).
 Here's my [resume](https://github.com/BlackSamorez/CV22/blob/master/resume.pdf). I mostly do model deployment stuff.
 Here're my noteworthy projects:
+* A [library](https://github.com/BlackSamorez/tensor_parallel) for [tensor_parallel](https://github.com/BlackSamorez/tensor_parallel) pytorch modeling
 * Telegram [bot](https://github.com/BlackSamorez/ebanko) with NLP functionality
 * An almost pure c++ [raytracer](https://github.com/BlackSamorez/raytracer21) programm.
 * Collaborative [project](https://github.com/BlackSamorez/mipt_lab) of collecting **MIPT** LaTeX lab reports.
