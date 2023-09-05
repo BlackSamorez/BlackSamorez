@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Andrei Panferov, you can contact me using *telegram* [@BlackSamorez](https://t.me/BlackSamorez).
-Here's my [resume](https://github.com/BlackSamorez/CV22/blob/master/resume.pdf). I mostly do model deployment stuff.
+Here's my [resume](https://github.com/BlackSamorez/CV22/blob/master/resume.pdf), here's mi [LinkedIn](https://www.linkedin.com/in/blacksamorez/). I mostly do model deployment stuff.
 Here're my noteworthy projects:
 * A [library](https://github.com/BlackSamorez/tensor_parallel) for [tensor_parallel](https://github.com/BlackSamorez/tensor_parallel) pytorch modeling
 * Telegram [bot](https://github.com/BlackSamorez/ebanko) with NLP functionality
